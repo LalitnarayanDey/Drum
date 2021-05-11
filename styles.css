@@ -1,0 +1,97 @@
+body {
+  text-align: center;
+  background-color: #66c9a0;
+  background-image: url(bg.jpg);
+  background-size: cover;
+  width: 100vw;
+  height:100vh;
+  background-repeat: no-repeat;
+  
+}
+#para{
+  color: white;
+  font-size: 1rem;
+  border-bottom: 2px solid red;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  width: 37%;
+  text-align: center;
+  margin: 16px auto;
+}
+
+
+#title {
+  font-size: 4rem;
+  color: #1eff00;
+  font-family: cursive;
+  text-shadow: 2px 0 #0f0f0f;
+  border-bottom:0.5rem solid blue;
+  border-bottom-left-radius:30px ;
+  border-bottom-right-radius:30px ;
+}
+
+.a {
+  /* background-image: url("images/tom1.png"); */
+  background-color: blue;
+ 
+}
+
+.s {
+  /* background-image: url("images/tom2.png"); */
+  background-color: green;
+}
+
+.d {
+  /* background-image: url("images/tom3.png"); */
+  background-color: #b805ff;
+}
+
+.f {
+  /* background-image: url("images/tom4.png"); */
+  background-color: #c8ff00;
+}
+
+.g {
+  /* background-image: url("images/snare.png"); */
+  background-color: #ffee00;
+}
+
+.h {
+  /* background-image: url("images/crash.png"); */
+  background-color: rgb(255, 0, 0);
+}
+
+.j {
+  /* background-image: url("images/kick.png"); */
+  background-color: black;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.drum {
+  outline: none;
+  border: 8px solid #e2ffa0;
+  font-size: 3.5rem;
+  font-family: 'Arvo', cursive;
+  /* line-height: 2; */
+  font-weight: 700;
+  color: #1eff00;
+  text-shadow: 3px 0 #070707;
+  border-radius: 5px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+
+}
+#j{
+text-shadow: 3px 0 #ffffff;
+}
